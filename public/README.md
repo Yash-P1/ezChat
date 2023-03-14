@@ -1,4 +1,5 @@
-# Steps to Start the App
+# Steps to Run the App locally
+
 
 ## Installation of public folder dependencies
 
@@ -29,4 +30,4 @@ Use default PORT and MongoURL, if you are using MongoDB for the first time.
   yarn start
 ```
 
-## Now the chat application would be running successfully on localhost.
+Now the chat application would be running successfully on localhost.
